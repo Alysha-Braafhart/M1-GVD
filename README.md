@@ -1,3 +1,2 @@
 # M1-GVD
-
-# 1.1
+Dit zijn alle opdrachten die ik heb gemaakt voor dit game development.
